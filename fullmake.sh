@@ -6,4 +6,5 @@ fi
 
 python get-examples.py
 make html
-make latexpdf
+make make LATEXOPTS=' -interaction=batchmode ' latexpdf
+make epub
