@@ -5,4 +5,3 @@
 # HPC-style examples (George and Konstantin)
 #
 hg,integration,https://bitbucket.org/loyolachicagocs_plsystems/integration-scala
-git,hello-scala-eclipse,https://github.com/oop-cs-luc-edu/hello-scala-eclipse.git
